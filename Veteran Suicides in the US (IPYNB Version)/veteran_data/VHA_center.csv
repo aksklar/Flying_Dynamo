@@ -1,0 +1,189 @@
+StationID,Facility,Address,state abbreviation,Phone
+521,Birmingham VA Medical Center,"700 S. 19th Street   Birmingham, AL 35233",AL,205-933-8101  
+463,Alaska VA Healthcare System,"1201 North Muldoon Road   Anchorage, AK 99504",AK,907-257-4700 Or 907-257-4700  
+619A4,Central Alabama Veterans Health Care System East Campus,"2400 Hospital Road   Tuskegee, AL 36083-5001",AL,334-727-0550 Or 334-727-0550  
+619,Central Alabama Veterans Health Care System West Campus,"215 Perry Hill Road   Montgomery, AL 36109-3798",AL,334-272-4670 Or 334-272-4670  
+679,Tuscaloosa VA Medical Center,"3701 Loop Road, East   Tuscaloosa, AL 35404",AL,205-554-2000 Or 205-554-2000  
+598,Central Arkansas Veterans Healthcare System Eugene J. Towbin Healthcare Center,"2200 Fort Roots Drive   North Little Rock, AR 72114-1706",AR,501-257-1000  
+598,Central Arkansas Veterans Healthcare System John L. McClellan Memorial Veterans Hospital,"4300 West 7th Street   Little Rock, AR 72205-5484",AR,501-257-1000  
+564,Veterans Health Care System of the Ozarks,"1100 N. College Avenue   Fayetteville, AR 72703",AR,479-443-4301 Or 479-443-4301  
+649,Northern Arizona VA Health Care System,"500 North Highway 89   Prescott, AZ 86313",AZ,928-445-4860 Or 928-445-4860  
+644,Phoenix VA Health Care System,"650 E. Indian School Road   Phoenix, AZ 85012",AZ,602-277-5551 Or 602-277-5551  
+678,Southern Arizona VA Health Care System,"3601 South 6th Avenue   Tucson, AZ 85723",AZ,520-792-1450 Or 520-792-1450  
+570,Central California VA Health Care System,"2615 E. Clinton Avenue   Fresno, CA 93703",CA,559-225-6100 Or 559-225-6100  
+640,Livermore,"4951 Arroyo Road   Livermore, CA 94550",CA,925-373-4700  
+640,Menlo Park,"795 Willow Road   Menlo Park, CA 94025",CA,650-614-9997  
+662,San Francisco VA Health Care System,"4150 Clement Street   San Francisco, CA 94121",CA,415-221-4810  
+691,VA Greater Los Angeles Healthcare System (GLA),"11301 Wilshire Boulevard   Los Angeles, CA 90073",CA,310-478-3711  
+605,VA Loma Linda Healthcare System,"11201 Benton Street   Loma Linda, CA 92357",CA,909-825-7084 Or 909-825-7084  
+600,VA Long Beach Healthcare System,"5901 E. 7th Street   Long Beach, CA 90822",CA,562-826-8000 Or 562-826-8000  
+612,VA Northern California Health Care System,"10535 Hospital Way   Mather, CA 95655",CA,800-382-8387 Or 916-843-7000  
+640,VA Palo Alto Health Care System,"3801 Miranda Avenue   Palo Alto, CA 94304-1290",CA,650-493-5000  
+664,VA San Diego Healthcare System,"3350 La Jolla Village Drive   San Diego, CA 92161",CA,858-552-8585  
+575,Grand Junction VA Medical Center,"2121 North Avenue   Grand Junction, CO 81501",CO,970-242-0731 Or 970-242-0731  
+554,VA Eastern Colorado Health Care System(ECHCS),"1055 Clermont Street   Denver, CO 80220",CO,303-399-8020  
+689,VA Connecticut Healthcare System,"950 Campbell Avenue   West Haven, CT 06516",CT,203-932-5711  
+689A4,"VA Connecticut Healthcare System, Newington Campus","555 Willard Avenue   Newington, CT 06111",CT,860-666-6951  
+689,"VA Connecticut Healthcare System, West Haven Campus","950 Campbell Avenue   West Haven, CT 06516",CT,203-932-5711  
+688,Washington DC VA Medical Center,"50 Irving Street, NW   Washington, DC 20422",DC,202-745-8000  
+460,Wilmington VA Medical Center,"1601 Kirkwood Highway   Wilmington, DE 19805",DE,302-994-2511 Or 302-994-2511  
+516,Bay Pines VA Healthcare System,"10000 Bay Pines Blvd   Bay Pines, FL 33744 ",FL,727-398-6661 Or 727-398-6661  
+,,"Mailing Address: P.O.Box 5005 Bay Pines, FL 33744",FL,
+673,James A. Haley Veterans' Hospital,"13000 Bruce B. Downs   Tampa, FL 33612",FL,813-972-2000  
+673QJ,James A. Haley Veterans' Hospital Primary Care Annex,"13515 Lake Terrace Lane   Tampa, FL 33637",FL,813-998-8000  
+573A4,"Lake City VAMC, NF/SGVHS","619 S. Marion Avenue   Lake City, FL 32025-5808",FL,386-755-3016 Or 800-308-8387  
+573,"Malcom Randall VAMC, NF/SGVHS","1601 S.W. Archer Road   Gainesville, FL 32608-1197",FL,352-376-1611 Or 800-324-8387  
+546,Miami VA Healthcare System,"1201 N.W. 16th St.   Miami, FL 33125",FL,305-575-7000 Or 305-575-7000  
+573,North Florida/South Georgia Veterans Health System,"1601 S.W. Archer Road   Gainesville, FL 32608",FL,352-376-1611  
+675,Orlando VA Medical Center,"13800 Veterans Way   Orlando, FL 32827",FL,407-631-1000  
+548,West Palm Beach VAMC,"7305 N. Military Trail   West Palm Beach, FL 33410-6400",FL,561-422-8262 Or 561-422-8262  
+508,Atlanta VA Health Care System,"1670 Clairmont Road   Decatur, GA 30033",GA,404-321-6111  
+557,Carl Vinson VA Medical Center,"1826 Veterans Blvd.   Dublin, GA 31021",GA,478-272-1210  
+509,Charlie Norwood VA Medical Center,"1 Freedom Way   Augusta, GA 30904-6285",GA,706-733-0188 Or 706-733-0188  
+459,VA Pacific Islands Health Care System,"459 Patterson Road   Honolulu, HI 96819-1522",HI,808-433-0600 Or 800-214-1306  
+636A8,Iowa City VA Health Care System,"601 Highway 6 West   Iowa City, IA 52246-2208",IA,319-338-0581  
+636A6,VA Central Iowa Health Care System,"3600 30th Street   Des Moines, IA 50310-5774",IA,515-699-5999 Or 515-699-5999  
+531,Boise VA Medical Center,"500 West Fort Street   Boise, ID 83702",ID,208-422-1000  
+556,Captain James A. Lovell Federal Health Care Center,"3001 Green Bay Road   North Chicago, IL 60064",IL,847-688-1900 Or 847-688-1900  
+578,Edward Hines Jr. VA Hospital,"5000 South 5th Ave   Hines, IL 60141",IL,708-202-8387  
+537,Jesse Brown VA Medical Center,"820 South Damen Avenue   Chicago, IL 60612",IL,312-569-8387 Or 312-569-8387  
+657A5,Marion VA Medical Center,"2401 West Main Street   Marion, IL 62959",IL,618-997-5311 Or 618-997-5311  
+550,VA Illiana Health Care System,"1900 East Main Street   Danville, IL 61832-5198",IL,217-554-3000 Or 217-554-3000  
+583,Richard L. Roudebush VA Medical Center (Indianapolis VA Medical Center),"1481 W. 10th Street   Indianapolis, IN 46202",IN,317-554-0000 Or 317-554-0000  
+610,VA Northern Indiana Health Care System,"2121 Lake Ave.   Fort Wayne, IN 46805",IN,260-426-5431 Or 260-426-5431  
+610,VA Northern Indiana Health Care System - Marion Campus,"1700 East 38th Street   Marion, IN 46953-4589",IN,765-674-3321 Or 765-674-3321  
+610A4,VA Northern Indiana Health Care System-Fort Wayne Campus,"2121 Lake Ave.   Fort Wayne, IN 46805",IN,260-426-5431 Or 260-426-5431  
+589A7,Robert J. Dole VA Medical Center,"5500 E. Kellogg   Wichita, KS 67218",KS,316-685-2221 Or 316-685-2221  
+589A5,VA Eastern Kansas Health Care System - Colmery-O'Neil VA Medical Center,"2200 SW Gage Boulevard   Topeka, KS 66622",KS,785-350-3111 Or 785-350-3111  
+589A6,VA Eastern Kansas Health Care System - Dwight D. Eisenhower VA Medical Center,"4101 S. 4th Street   Leavenworth, KS 66048-5055",KS,913-682-2000 Or 913-682-2000  
+596,Lexington VA Medical Center,"1101 Veterans Drive   Lexington, KY 40502-2236",KY,859-233-4511  
+596A4,Lexington VAMC: Cooper Division,"1101 Veterans Drive   Lexington, KY 40502-2236",KY,859-281-4900 Or 859-233-4511  
+596,Lexington VAMC: Leestown Division,"2250 Leestown Rd   Lexington, KY 40511-1052",KY,859-233-4511 Or 859-281-4900  
+603,Robley Rex VA Medical Center,"800 Zorn Avenue   Louisville, KY 40206",KY,502-287-4000 Or 502-287-4000  
+502,Alexandria VA Health Care System,"2495 Shreveport Hwy 71 N   Pineville, LA 71360-4044 ",LA,318-473-0010  
+,,"Mailing Address: Department of Veteran Affairs Medical Center, P.O. Box 69004 Alexandria, LA 71306-9004",LA,
+667,Overton Brooks VA Medical Center,"510 E. Stoner Ave.   Shreveport, LA 71101-4295",LA,318-221-8411 Or 318-221-8411  
+667,Shreveport,"510 E Stoner Ave   Shreveport, LA 71101",LA,
+629,Southeast Louisiana Veterans Health Care System,"2400 Canal Street   New Orleans, LA 70119",LA,800-935-8387 Or 800-935-8387  
+518,Edith Nourse Rogers Memorial Veterans Hospital (Bedford VA),"200 Springs Rd.   Bedford, MA 01730",MA,781-687-2000  
+523,VA Boston Healthcare System,"150 South Huntington Avenue   Jamaica Plain, MA 02130",MA,617-232-9500  
+523A5,"VA Boston Healthcare System, Brockton Campus","940 Belmont Street   Brockton, MA 02301",MA,508-583-4500 Or 508-583-4500  
+523,"VA Boston Healthcare System, Jamaica Plain Campus","150 South Huntington Avenue   Jamaica Plain, MA 02130",MA,617-232-9500  
+523A4,"VA Boston Healthcare System, West Roxbury Campus","1400 VFW Parkway   West Roxbury, MA 02132",MA,617-323-7700  
+631,VA Central Western Massachusetts Healthcare System,"421 North Main Street   Leeds, MA 01053-9764",MA,413-584-4040  
+512,Baltimore VA Medical Center - VA Maryland Health Care System,"10 North Greene Street   Baltimore, MD 21201",MD,410-605-7000 Or 410-605-7000  
+512GB,Loch Raven VA Medical Center - VA Maryland Health Care System,"3900 Loch Raven Boulevard   Baltimore, MD 21218",MD,410-605-7000 Or 410-605-7000  
+512A5,Perry Point VA Medical Center - VA Maryland Health Care System,"VA Medical Center   Perry Point, MD 21902",MD,410-642-2411 Or 410-642-2411  
+512,VA Maryland Health Care System,"10 North Greene Street   Baltimore, MD 21201",MD,410-605-7000  
+402,VA Maine Healthcare System - Togus,"1 VA Center   Augusta, ME 04330",ME,207-623-8411 Or 207-623-8411  
+655,Aleda E. Lutz VA Medical Center,"1500 Weiss Street   Saginaw, MI 48602",MI,989-497-2500 Or 800-406-5143  
+515,Battle Creek VA Medical Center,"5500 Armstrong Road   Battle Creek, MI 49037",MI,269-966-5600  
+553,John D. Dingell VA Medical Center,"4646 John R   Detroit, MI 48201",MI,313-576-1000 Or 313-576-1000  
+585,Oscar G. Johnson VA Medical Center,"325 East H Street   Iron Mountain, MI 49801",MI,906-774-3300  
+506,VA Ann Arbor Healthcare System,"2215 Fuller Road   Ann Arbor, MI 48105",MI,734-769-7100 Or 734-769-7100  
+618,Minneapolis VA Health Care System,"One Veterans Drive   Minneapolis, MN 55417",MN,612-725-2000  
+656,St. Cloud VA Health Care System,"4801 Veterans Drive   St. Cloud, MN 56303",MN,320-252-1670 Or 320-252-1670  
+589A4,Harry S. Truman Memorial,"800 Hospital Drive   Columbia, MO 65201-5297",MO,573-814-6000 Or 573-814-6000  
+657A4,John J. Pershing VA Medical Center,"1500 N. Westwood Blvd.   Poplar Bluff, MO 63901",MO,573-686-4151 Or 573-686-4151  
+589,Kansas City VA Medical Center,"4801 Linwood Boulevard   Kansas City, MO 64128",MO,816-861-4700  
+657,VA St. Louis Health Care System,"1 Jefferson Barracks Drive   Saint Louis, MO 63125",MO,314-652-4100  
+657A0,VA St. Louis Health Care System - Jefferson Barracks Division,"1 Jefferson Barracks Drive   Saint Louis, MO 63125",MO,314-652-4100  
+657,VA St. Louis Health Care System - John Cochran Division,"915 North Grand Blvd.   Saint Louis, MO 63106",MO,314-652-4100  
+586,G.V. (Sonny) Montgomery VA Medical Center,"1500 E. Woodrow Wilson Drive   Jackson, MS 39216",MS,601-362-4471  
+520,Gulf Coast Veterans Health Care System,"400 Veterans Avenue   Biloxi, MS 39531",MS,228-523-5000  
+436,VA Montana Health Care System,"3687 Veterans Drive   Fort Harrison, MT 59636",MT,406-442-6410  
+637,Asheville VA Medical Center,"1100 Tunnel Road   Asheville, NC 28805",NC,828-298-7911  
+558,Durham VA Medical Center,"508 Fulton Street   Durham, NC 27705",NC,919-286-0411 Or 919-286-0411  
+565,Fayetteville VA Medical Center,"2300 Ramsey Street   Fayetteville, NC 28301",NC,910-488-2120 Or 910-488-2120  
+659,Salisbury - W.G. (Bill) Hefner VA Medical Center,"1601 Brenner Avenue   Salisbury, NC 28144",NC,704-638-9000 Or 704-638-9000  
+437,Fargo VA Health Care System,"2101 Elm Street N.   Fargo, ND 58102",ND,701-232-3241 Or 701-232-3241  
+636A4,Grand Island VA Medical Center,"2201 No. Broadwell Avenue   Grand Island, NE 68803-2196",NE,308-382-3660 Or 866-580-1810  
+636,Omaha VA Medical Center--VA Nebraska-Western Iowa HCS,"4101 Woolworth Avenue   Omaha, NE 68105",NE,402-346-8800 Or 800-451-5796  
+608,Manchester VA Medical Center,"718 Smyth Road   Manchester, NH 03104",NH,603-624-4366 Or 603-624-4366  
+561,East Orange Campus of the VA New Jersey Health Care System,"385 Tremont Avenue   East Orange, NJ 07018",NJ,973-676-1000  
+561A4,Lyons Campus of the VA New Jersey Health Care System,"151 Knollcroft Road   Lyons, NJ 07939",NJ,908-647-0180  
+561,VA New Jersey Health Care System,"385 Tremont Avenue   East Orange, NJ 07018",NJ,973-676-1000  
+501,New Mexico VA Health Care System,"1501 San Pedro Drive, SE   Albuquerque, NM 87108-5153",NM,505-265-1711 Or 505-265-1711  
+654,VA Sierra Nevada Health Care System,"975 Kirman Avenue   Reno, NV 89502",NV,775-786-7200 Or 775-786-7200  
+593,VA Southern Nevada Healthcare System,"6900 North Pecos Road   N. Las Vegas, NV 89086",NV,702-791-9024  
+528A8,Albany VA Medical Center: Samuel S. Stratton,"113 Holland Avenue   Albany, NY 12208",NY,518-626-5000 Or 518-626-5000  
+528A6,Bath VA Medical Center,"76 Veterans Avenue   Bath, NY 14810",NY,607-664-4000 Or 607-664-4000  
+630A4,Brooklyn Campus of the VA NY Harbor Healthcare System,"800 Poly Place   Brooklyn, NY 11209",NY,718-836-6600  
+528A5,Canandaigua VA Medical Center,"400 Fort Hill Avenue   Canandaigua, NY 14424",NY,585-394-2000 Or 585-394-2000  
+620A4,Castle Point Campus of the VA Hudson Valley Health Care System,"41 Castle Point Road   Wappingers Falls, NY 12590",NY,845-831-2000  
+620,Franklin Delano Roosevelt Campus of the VA Hudson Valley Health Care System (Montrose),"2094 Albany Post Rd.   Montrose, NY 10548",NY,914-737-4400  
+526,"James J. Peters VA Medical Center (Bronx, NY)","130 West Kingsbridge Road   Bronx, NY 10468",NY,718-584-9000  
+630,Manhattan Campus of the VA NY Harbor Healthcare System,"423 East 23rd Street   New York, NY 10010",NY,212-686-7500  
+632,Northport VA Medical Center,"79 Middleville Road   Northport, NY 11768",NY,631-261-4400 Or 631-261-4400  
+528A7,Syracuse VA Medical Center,"800 Irving Avenue   Syracuse, NY 13210",NY,315-425-4400 Or 315-425-4400  
+620,VA Hudson Valley Health Care System,"2094 Albany Post Rd.   Montrose, NY 10548",NY,914-737-4400  
+630,VA NY Harbor Healthcare System,"423 East 23rd Street   New York, NY 10010",NY,
+528,VA Western New York Healthcare System,"3495 Bailey Avenue   Buffalo, NY 14215",NY,716-834-9200 Or 800-532-8387  
+528A4,VA Western New York Healthcare System at Batavia,"222 Richmond Avenue   Batavia, NY 14020",NY,585-297-1000  
+528,VA Western New York Healthcare System at Buffalo,"3495 Bailey Avenue   Buffalo, NY 14215",NY,716-834-9200 Or 800-532-8387  
+757,Chalmers P. Wylie Ambulatory Care Center,"420 N James Road   Columbus, OH 43219",OH,614-257-5200  
+538,Chillicothe VA Medical Center,"17273 State Route 104   Chillicothe, OH 45601",OH,740-773-1141  
+539,Cincinnati VA Medical Center,"3200 Vine Street   Cincinnati, OH 45220",OH,513-861-3100  
+552,Dayton VA Medical Center,"4100 W. 3rd Street   Dayton, OH 45428",OH,937-268-6511 Or 937-268-6511  
+541,Louis Stokes Cleveland VA Medical Center,"10701 East Boulevard   Cleveland, OH 44106",OH,216-791-3800  
+623,Eastern Oklahoma VA Health Care System (Jack C. Montgomery VAMC),"1011 Honor Heights Drive   Muskogee, OK 74401",OK,918-577-3000 Or 918-577-3000  
+635,Oklahoma City VA Health Care System,"921 N.E. 13th Street   Oklahoma City, OK 73104",OK,405-456-1000 Or 405-456-1000  
+648,Portland VA Medical Center,"3710 SW U.S. Veterans Hospital Road   Portland, OR 97239",OR,503-220-8262 Or 503-220-8262  
+653,Roseburg VA Health Care System,"913 NW Garden Valley Blvd.   Roseburg, OR 97471-6513",OR,541-440-1000  
+692,White City or VA Southern Oregon Rehabilitation Center,"8495 Crater Lake Hwy.   White City, OR 97503",OR,541-826-2111  
+503,Altoona - James E. Van Zandt VA Medical Center,"2907 Pleasant Valley Boulevard   Altoona, PA 16602-4377",PA,814-943-8164 Or 814-943-8164  
+542,Coatesville VA Medical Center,"1400 Black Horse Hill Road   Coatesville, PA 19320-2096",PA,610-384-7711 Or 610-384-7711  
+562,Erie VA Medical Center,"135 East 38th Street   Erie, PA 16504",PA,800-274-8387 Or 800-274-8387  
+595,Lebanon VA Medical Center,"1700 South Lincoln Avenue   Lebanon, PA 17042",PA,717-272-6621 Or 717-272-6621  
+642,Philadelphia VA Medical Center,"3900 Woodland Avenue   Philadelphia, PA 19104",PA,215-823-5800 Or 215-823-5800  
+529,VA Butler Health Care Center,"353 North Duffy Road   Butler, PA 16001-2480",PA,800-362-8262  
+646,VA Pittsburgh Healthcare System,"University Drive   Pittsburgh, PA 15240",PA,412-822-2222  
+646A4,"VA Pittsburgh Healthcare System, H.J. Heinz Campus","1010 Delafield Road   Pittsburgh, PA 15215",PA,412-822-2222 Or 866-482-7488  
+646,"VA Pittsburgh Healthcare System, University Drive Campus","University Drive   Pittsburgh, PA 15240",PA,412-822-2222 Or 866-482-7488  
+693,Wilkes-Barre VA Medical Center,"1111 East End Blvd.   Wilkes-Barre, PA 18711",PA,570-824-3521 Or 570-824-3521  
+672,VA Caribbean Healthcare System,"10 Casia Street   San Juan, PR 00921-3201",PR,787-641-7582 Or 787-641-7582  
+650,Providence VA Medical Center,"830 Chalkstone Avenue   Providence, RI 02908-4799",RI,401-273-7100 Or 401-273-7100  
+534,Ralph H. Johnson VA Medical Center,"109 Bee Street   Charleston, SC 29401-5799",SC,843-577-5011 Or 843-577-5011  
+544,Wm. Jennings Bryan Dorn VA Medical Center,"6439 Garners Ferry Road   Columbia, SC 29209-1639",SC,803-776-4000  
+438,Royal C. Johnson Veterans Memorial Medical Center,"2501 W. 22nd Street, PO Box 5046   Sioux Falls, SD 57117-5046",SD,605-336-3230  
+568A4,VA Black Hills Health Care System - Hot Springs Campus,"500 North 5th Street   Hot Springs, SD 57747",SD,605-745-2000 Or 605-745-2000  
+568,VA Black Hills Health Care System - Fort Meade Campus,"113 Comanche Road   Fort Meade, SD 57741",SD,605-347-2511 Or 605-347-2511  
+614,Memphis VA Medical Center,"1030 Jefferson Avenue   Memphis, TN 38104",TN,901-523-8990 Or 901-523-8990  
+621,Mountain Home VAMC/Johnson City,"Corner of Lamont Street and Veterans Way   Mountain Home, TN 37684 ",TN,423-926-1171 Or 423-926-1171  
+,,"Mailing Address: P.O. Box 4000 Mountain Home, TN 37684",TN,
+626,Tennessee Valley Healthcare System,"1310 24th Avenue South   Nashville, TN 37212",TN,615-327-4751  
+626A4,Tennessee Valley Healthcare System - Alvin C. York (Murfreesboro) Campus,"3400 Lebanon Pike   Murfreesboro, TN 37129",TN,615-867-6000 Or 615-867-6000  
+626,Tennessee Valley Healthcare System - Nashville Campus,"1310 24th Avenue South   Nashville, TN 37212-2637",TN,615-327-4751 Or 615-327-4751  
+504,Amarillo VA Health Care System,"6010 Amarillo Boulevard, West   Amarillo, TX 79106",TX,806-355-9703 Or 806-355-9703  
+674,Central Texas Veterans Health Care System,"1901 Veterans Memorial Drive   Temple, TX 76504-7451",TX,254-778-4811 Or 254-778-4811  
+549,Dallas VA Medical Center,"4500 S. Lancaster Rd.   Dallas, TX 75216",TX,800-849-3597 Or 800-849-3597  
+674A4,Doris Miller Department of Veterans Affairs Medical Center,"4800 Memorial Drive   Waco, TX 76711",TX,254-752-6581 Or 254-752-6581  
+756,El Paso VA Health Care System,"5001 North Piedras Street   El Paso, TX 79930-4211",TX,915-564-6100  
+671A4,Kerrville VA Hospital,"3600 Memorial Blvd   Kerrville, TX 78028",TX,866-487-1653  
+580,Michael E. DeBakey VA Medical Center,"2002 Holcombe Blvd.   Houston, TX 77030-4298",TX,713-791-1414 Or 800-553-2278  
+549A4,Sam Rayburn Memorial Veterans Center,"1201 E. 9th St.   Bonham, TX 75418",TX,800-924-8387 Or 800-924-8387  
+671,South Texas Veterans Health Care System,"7400 Merton Minter Blvd.   San Antonio, TX 78229",TX,210-617-5300 Or 210-617-5300  
+549,VA North Texas Health Care System,"4500 South Lancaster Road   Dallas, TX 75216",TX,800-849-3597 Or 214-742-8387  
+740,VA Texas Valley Coastal Bend Health Care System,"2601 Veterans Drive   Harlingen, TX 78550",TX,956-291-9000 Or 855-864-0516  
+519,West Texas VA Health Care System,"300 Veterans Blvd.   Big Spring, TX 79720",TX,432-263-7361 Or 432-263-7361  
+660,VA Salt Lake City Health Care System,"500 Foothill Drive   Salt Lake City, UT 84148",UT,801-582-1565  
+590,Hampton VA Medical Center,"100 Emancipation Drive   Hampton, VA 23667",VA,757-722-9961  
+652,Hunter Holmes McGuire VA Medical Center,"1201 Broad Rock Boulevard   Richmond, VA 23249",VA,804-675-5000  
+658,Salem VA Medical Center,"1970 Roanoke Boulevard   Salem, VA 24153",VA,540-982-2463 Or 888-982-2463  
+405,White River Junction VA Medical Center,"163 Veterans Drive   White River Junction, VT 05009 ",VT,802-295-9363 Or 802-295-9363  
+,,"Mailing Address: 215 North Main Street White River Junction, VT 05009",VT,
+687,Jonathan M. Wainwright Memorial VA Medical Center,"77 Wainwright Drive   Walla Walla, WA 99362",WA,888-687-8863 Or 888-687-8863  
+668,Mann-Grandstaff VA Medical Center,"4815 N. Assembly Street   Spokane, WA 99205",WA,509-434-7000  
+648A4,VA Portland Health Care System - Vancouver Campus,"1601 E. 4th Plain Blvd   Vancouver, WA 98661",WA,360-759-1901  
+663,VA Puget Sound Health Care System,"1660 S. Columbian Way   Seattle, WA 98108",WA,206-762-1010 Or 206-762-1010  
+663A4,VA Puget Sound Health Care System - American Lake Division,"9600 Veterans Dr   Lakewood, WA 98493",WA,253-582-8440 Or 253-582-8440  
+663,VA Puget Sound Health Care System - Seattle Division,"1660 S. Columbian Way   Seattle, WA 98108-1597",WA,206-762-1010 Or 206-762-1010  
+695,Clement J. Zablocki Veterans Affairs Medical Center,"5000 West National Avenue   Milwaukee, WI 53295-1000",WI,414-384-2000  
+676,Tomah VA Medical Center,"500 E. Veterans Street   Tomah, WI 54660",WI,608-372-3971  
+607,William S. Middleton Memorial Veterans Hospital,"2500 Overlook Terrace   Madison, WI 53705-2286",WI,608-256-1901 Or 888-478-8321  
+517,Beckley VA Medical Center,"200 Veterans Avenue   Beckley, WV 25801",WV,304-255-2121 Or 304-255-2121  
+540,Clarksburg - Louis A. Johnson VA Medical Center,"One Medical Center Drive   Clarksburg, WV 26301",WV,304-623-3461 Or 800-733-0512  
+581,Huntington VA Medical Center,"1540 Spring Valley Drive   Huntington, WV 25704",WV,304-429-6741  
+613,Martinsburg VA Medical Center,"510 Butler Avenue   Martinsburg, WV 25405",WV,304-263-0811 Or 800-817-3807  
+442,Cheyenne VA Medical,"2360 E. Pershing Blvd.   Cheyenne, WY 82001",WY,307-778-7550 Or 307-778-7550  
+666,Sheridan VA Medical Center,"1898 Fort Road   Sheridan, WY 82801",WY,307-672-3473 Or 307-672-3473  
