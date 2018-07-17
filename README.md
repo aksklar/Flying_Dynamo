@@ -1,5 +1,5 @@
 # Suicide Among Veterans in the United States
-The motivation behind this group project was to use data to answer a series questions surrounding suicides among Veterans in the United States.  What we hope to accomplish from this project was to be able to share our foundings in order to create awareness that will help expand the network of support for veterans.
+The motivation behind this group project was to use data to answer a series of questions surrounding suicides among Veterans in the United States.  What we hope to accomplish from this project was to be able to share our foundings in order to create awareness that will help expand the network of support for veterans.
 
 ## Research Questions: 
 * What is the rate of veteran suicides and how does that compare to non-veterans?
